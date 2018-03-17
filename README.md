@@ -1,4 +1,4 @@
-#Why Currying
+# Why Currying
 
 The goal of this workshop is to learn concept and create a function to apply curry in JavaScript.
 
@@ -7,7 +7,7 @@ Currying is the technique of translating the evaluation of a function that takes
 JavaScript has functional capabilities, but currying isn’t built in by default (at least not till the time of writing.. :)).
 Installation & Update
 
-''$ npm install -g currying-workshopper''
+`$ npm install -g currying-workshopper`
 
 Some npm installations require use of sudo in the above command. Recommend to instead reinstall node/npm so you don't need sudo.
 Usage Instructions
